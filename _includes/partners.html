@@ -1,0 +1,22 @@
+<div class="white-bg">
+<div class="wrapper">
+
+<h2 class="black">Partners</h2>
+
+{% assign imgs = site.partners | slice: 0,3 %}
+{% include images-gallery.html imgs = imgs class = 'col-1-of-3' %}
+
+{% assign imgs = site.partners | slice: 3,3 %}
+{% include images-gallery.html imgs = imgs class = 'col-1-of-3' %}
+
+{% assign imgs = site.partners | slice: 6,1 %}
+{% include images-gallery.html imgs = imgs class = 'col-1-of-3' %}
+</div>
+</div>
+
+<div class="grey-bg">
+<div class="wrapper">
+{% assign imgs = site.partners | slice: 7,3 %}
+{% include images-gallery.html imgs = imgs class = 'col-1-of-2 clearfix' %}
+</div>
+</div>

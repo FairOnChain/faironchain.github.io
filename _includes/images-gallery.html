@@ -1,0 +1,10 @@
+<div class="row text-center center">
+  {% for img in include.imgs %}
+  <div class="{{ include.class }}">
+    <a href="https://{{ img.url }}" target="_blank">
+      <img src="{{ img.src }}" alt="{{ img.alt }}" />
+    </a>
+    <p>{{ img.text }}</p>
+  </div>
+  {% endfor %}
+</div>

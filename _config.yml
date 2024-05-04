@@ -1,0 +1,69 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: FairOnChain
+author: the FairOnChain consortium
+email: madalina.sas@pm.me
+description: >- # this means to ignore newlines until "baseurl:"
+  Fair and Modular blockchain data infrastructure for open science and society
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://faironchain.org" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
+
+# syntax highlighting settings
+kramdown:
+  hard_wrap: false
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
+# other relevant info
+partners:
+  - alt: École Polytechnique Fédérale de Lausanne
+    src: /assets/img/logo/epfl.png
+    url: epfl.ch
+  - alt: Haute École de Gestion de Genève
+    src: /assets/img/logo/heg.png
+    url: hesge.ch
+  - alt: Haute École Spécialisée de Suisse Occidentale
+    url: hes-so.ch/en
+    src: /assets/img/logo/hesso.png
+  - alt: Institut Polytechnique de Paris
+    src: /assets/img/logo/ipp.png
+    url: polytechnique.edu/en
+  - alt: Centre for Research in Economics and Statisics
+    src: /assets/img/logo/crest.png
+    url: crest.science
+  - alt: Blockchain@X
+    src: /assets/img/logo/blockchain@x.png
+    url: blockchain-polytechnique.com
+  - alt: Imperial College London
+    src: /assets/img/logo/imperial.png
+    url: imperial.ac.uk
+  - alt: Swiss National Science Foundation
+    src: /assets/img/logo/snf.png
+    url: snf.ch/en
+  - alt: The Agence Nationale de la Recherche
+    src: /assets/img/logo/anr.png
+    url: anr.fr
+  - alt: UK Research and Innovation
+    src: /assets/img/logo/ukri.png
+    url: ukri.org
