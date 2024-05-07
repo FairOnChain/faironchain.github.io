@@ -240,6 +240,11 @@ blockquote {
     font-style: italic;
 }
 
+.la {
+  font-size: 60px;
+  color: #1166ff !important;
+}
+
 /* Colours
  * ----------------------------------------------
  */

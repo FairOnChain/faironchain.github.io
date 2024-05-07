@@ -23,21 +23,27 @@ This project is based upon participation in the CHIST-ERA 2022 call for <a href=
 
 <div class="wrapper" markdown="1">
 <div class="col-1-of-2 text-center" markdown="1">
+<span class="la la-compass"></span>
 ### *F*indable
 Metadata and data should be easy to find for both humans and computers. Machine-readable metadata are essential for automatic discovery of datasets and services.
 </div>
 
 <div class="col-1-of-2 text-center" markdown="1">
+<span class="la la-universal-access"></span>
 ### *A*ccessible
 Once the users finds the required data, they need to know how they can be accessed, possibly including authentication and authorisation.
 </div>
 
 <div class="col-1-of-2 text-center" markdown="1">
+<!-- span class="la la-project-diagram"></span -->
+<!-- span class="la la-plug"></span -->
+<span class="la la-handshake"></span>
 ### *I*nteroperable
 The data usually need to be integrated with other data. In addition, the data need to interoperate with applications or workflows for analysis, storage, and processing.
 </div>
 
 <div class="col-1-of-2 text-center" markdown="1">
+<span class="la la-recycle"></span>
 ### *R*eusable
 The ultimate goal of FAIR is to optimise the reuse of data. To achieve this, metadata and data should be well-described so that they can be replicated and/or combined in different settings.
 </div>
