@@ -50,8 +50,8 @@ body {
 .container { position: relative; }
 
 .overlay {
-  height: calc(100vw / 2.4 - 14vw);
-  width: 100vw;
+  height: calc(100% / 2.4 - 14vw);
+  width: 100%;
   z-index: 5;
   position: absolute;
   top: 14vw;
@@ -130,15 +130,36 @@ footer img {
    max-width: 180px;
 }
 
+/* Mobile hide/show elements
+ * ----------------------------------------------
+*/
+@media screen and (max-width: 599px) {
+   .hide-sm { display: none; }
+   .hide-lg { display: block; }
+}
+
+@media screen and (min-width: 600px) {
+   .hide-sm { display: block; }
+   .hide-lg { display: none; }
+}
+
 
 /* Menu
  * ----------------------------------------------
 */
 header{
   z-index: 10;
-  width: 100vw;
+  width: 100%;
   position: relative;
 }
+
+#logo a h1 {
+  color: #000 !important;
+  text-decoration: none;
+  font-size: 22px;
+  margin-bottom: 10px !important;
+}
+
 .main-menu {
   padding-top: 8px;
   z-index: 10;
