@@ -13,7 +13,7 @@ images:
   - alt: Arnaud Gaudinat
     src: /assets/img/people/arnaud.jpg
     url: ch.linkedin.com/in/arnaud-gaudinat
-    text: <strong><em>Prof Arnaud Gaudinat</em><br/>Principal Investigator</strong><br/>Professor<br/>Haute École de Gestion de Genève/Haute École Spécialisée de Suisse Occidentale
+    text: <strong><em>Prof Arnaud Gaudinat</em><br/>Principal Investigator</strong><br/>Professor<br/>Haute École de Gestion de Genève / Haute École Spécialisée de Suisse Occidentale
 
   - alt: Julien Prat
     src: /assets/img/people/julien.png
@@ -27,23 +27,23 @@ images:
 
   - alt: Simone Casale-Brunet
     src: /assets/img/people/simone.jpg
-    url: https://casalebrunet.com/
+    url: casalebrunet.com
     text: <strong><em>Dr Simone Casale-Brunet</em></strong><br/>Senior Researcher<br/>École Polytechnique Fédérale de Lausanne
 
   - alt: Christophe Lebrun
     src: /assets/img/people/christophe.png
     url: www.linkedin.com/in/christophelebrun/
-    text: <strong><em>Christophe Lebrun</em></strong><br/>Scientific Officer<br/>Haute École de Gestion de Genève/Haute École Spécialisée de Suisse Occidentale
+    text: <strong><em>Christophe Lebrun</em></strong><br/>Scientific Officer<br/>Haute École de Gestion de Genève / Haute École Spécialisée de Suisse Occidentale
 
   - alt: Oetske Leroux-Fankhauser
     src: /assets/img/people/oetske.png
     url: www.linkedin.com/in/oetske-leroux/
-    text: <strong><em>Oetske Leroux-Fankhauser</em></strong><br/>Scientific Assistant<br/>Haute École de Gestion de Genève/Haute École Spécialisée de Suisse Occidentale
+    text: <strong><em>Oetske Leroux-Fankhauser</em></strong><br/>Scientific Assistant<br/>Haute École de Gestion de Genève / Haute École Spécialisée de Suisse Occidentale
 
   - alt: Amir Alwash
     src: /assets/img/people/amir.png
     url: www.linkedin.com/in/amiralwash/
-    text: <strong><em>Amir Alwash</em></strong><br/>Scientific Assistant<br/>Haute École de Gestion de Genève/Haute École Spécialisée de Suisse Occidentale
+    text: <strong><em>Amir Alwash</em></strong><br/>Scientific Assistant<br/>Haute École de Gestion de Genève / Haute École Spécialisée de Suisse Occidentale
 
   - alt: Natkamon Tovanich
     src: /assets/img/people/natkamon.jpg
