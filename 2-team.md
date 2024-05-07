@@ -52,6 +52,7 @@ images:
 
 ---
 
+<p>&nbsp;</p>
 
 <h2 class="aqua">GENESIS TEAM</h2>
 

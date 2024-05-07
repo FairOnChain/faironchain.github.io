@@ -5,7 +5,7 @@ menu: about
 permalink: /
 subtitle: Fair and modular blockchain data infrastructure for open science and society
 hero_video: "https://media.githubusercontent.com/media/FairOnChain/faironchain.github.io/main/assets/video/grid.mp4"
-logo_img: /assets/img/faironchain-white.svg
+logo_img: /assets/img/faironchain-white.png
 
 ---
 
