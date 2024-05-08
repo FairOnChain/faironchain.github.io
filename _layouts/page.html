@@ -4,12 +4,14 @@ layout: default
 
 {% if page.hero_img %}
 <div class="container" background-img="{{ page.hero_img }}">
-{% else if page.hero_video %}
+{% elsif page.hero_video %}
 <div class="container">
   <video autoPlay muted loop width="100%">
     <source src="{{ page.hero_video }}" type="video/mp4" />
   </video>
   <div class="overlay">
+{% else %}
+<h1>&nbsp</h1>
 {% endif %}
 
 {% if page.logo_img %}
