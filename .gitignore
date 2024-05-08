@@ -1,5 +1,13 @@
+# jekyll
 _site
 .sass-cache
 .jekyll-metadata
-.backup
+Gemfile
+Gemfile.lock
+
+# text editors
+*.backup
+
+*.swp
+*.swo
 
