@@ -50,6 +50,22 @@ images:
     url: www.linkedin.com/in/natkamon-tovanich-00a1a5aa/
     text: <strong><em>Dr Natkamon Tovanich</em></strong><br/>Postdoctoral Researcher<br/>CREST, École Polytechnique de Paris
 
+  - alt: Jaiditya Khemani
+    src: /assets/img/people/jaiditya.jpg
+    url: uk.linkedin.com/in/jaiditya-khemani
+    text: <strong><em>Jaiditya Khemani</em></strong><br/>Computing Student<br/>Imperial College London
+
+  - alt: Yiqi Li
+    src: /assets/img/people/yiqi.jpg
+    url: uk.linkedin.com/in/yiqi-li-567b76212
+    text: <strong><em>Yiqi Li</em></strong><br/>Computing Student<br/>Imperial College London
+
+  - alt: Madalina Sas
+    src: /assets/img/people/mads.jpg
+    url: mis.pm
+    text: <strong><em>Madalina Sas</em></strong><br/>Research Assistant<br/>Imperial College London
+
+
 ---
 
 <p>&nbsp;</p>
@@ -68,5 +84,7 @@ images:
 {% assign imgs = page.images | slice: 7,3 %}
 {% include images-gallery.html imgs = imgs class = 'col-1-of-3 circle' %}
 
+{% assign imgs = page.images | slice: 10,3 %}
+{% include images-gallery.html imgs = imgs class = 'col-1-of-3 circle' %}
 
 {% include partners.html %}
