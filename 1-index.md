@@ -59,7 +59,7 @@ data store with high integrity.
 At the core, blockchains operate on transparent ledgers that store transactions.
 
 Distributed ledgers, on their own, don’t always offer consistent, indexed, and user-friendly representations. 
-Each blockchain is tailored to specific use-case requirements.
+Each blockchain is tailored to *specific use-case requirements*.
 This can make accessing and interpreting information a daunting task.
 
 FairOnChain aims to address this problem by creating an **open** infrastructure to **access**, **analyse** and **visualise** blockchain data following principles of open science.
