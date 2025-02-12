@@ -18,7 +18,7 @@ images:
   - alt: Julien Prat
     src: /assets/img/people/julien.png
     url: crest.science/user/Julien-PRAT/
-    text: <strong><em>Prof Julien Prat</em><br/>Principal Investigator</strong><br/>Head of Blockchain@X<br/>Researcher Director CNRS<br/>CREST, École Polytechnique de Paris
+    text: <strong><em>Prof Julien Prat</em><br/>Principal Investigator</strong><br/>Head of Blockchain@X<br/>Researcher Director CNRS<br/>CREST, École Polytechnique
 
   - alt: William Knottenbelt
     src: /assets/img/people/william.jpg
@@ -29,6 +29,12 @@ images:
     src: /assets/img/people/simone.jpg
     url: casalebrunet.com
     text: <strong><em>Dr Simone Casale-Brunet</em></strong><br/>Senior Researcher<br/>École Polytechnique Fédérale de Lausanne
+
+  - alt: Ünsal Öztürk
+    src: /assets/img/people/anon.jpg
+    url: people.epfl.ch/unsal.ozturk 
+    text: <strong><em>Dr Ünsal Öztürk</em></strong><br/>Doctoral Assistant<br/>École Polytechnique Fédérale de Lausanne
+
 
   - alt: Christophe Lebrun
     src: /assets/img/people/christophe.png
@@ -45,10 +51,22 @@ images:
     url: www.linkedin.com/in/amiralwash/
     text: <strong><em>Amir Alwash</em></strong><br/>Scientific Assistant<br/>Haute École de Gestion de Genève / Haute École Spécialisée de Suisse Occidentale
 
+  - alt: Stéphane A.
+    src: /assets/img/people/stephane.png
+    url: www.linkedin.com/in/st%C3%A9phane-a-b63874331/ 
+    text: <strong><em><Stéphane A./em></strong><br/>Scientific Assistant<br/>Haute École de Gestion de Genève / Haute École Spécialisée de Suisse Occidentale
+
+
   - alt: Natkamon Tovanich
     src: /assets/img/people/natkamon.jpg
     url: www.linkedin.com/in/natkamon-tovanich-00a1a5aa/
-    text: <strong><em>Dr Natkamon Tovanich</em></strong><br/>Postdoctoral Researcher<br/>CREST, École Polytechnique de Paris
+    text: <strong><em>Dr Natkamon Tovanich</em></strong><br/>Postdoctoral Researcher<br/>CREST, École Polytechnique
+
+  - alt: Munthitra Thadthapong 
+    src: /assets/img/people/munthitra.jpeg
+    url: fr.linkedin.com/in/munthitra-thadthapong
+    text: <strong><em>Munthitra Thadthapong</em></strong><br/>Data Science & AI Master's Student<br/>CREST, École Polytechnique
+
 
   - alt: Jaiditya Khemani
     src: /assets/img/people/jaiditya.jpg
