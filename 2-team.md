@@ -54,7 +54,7 @@ images:
   - alt: Stéphane A.
     src: /assets/img/people/stephane.png
     url: www.linkedin.com/in/st%C3%A9phane-a-b63874331/ 
-    text: <strong><em><Stéphane A./em></strong><br/>Scientific Assistant<br/>Haute École de Gestion de Genève / Haute École Spécialisée de Suisse Occidentale
+    text: <strong><em>Stéphane A.</em></strong><br/>Scientific Assistant<br/>Haute École de Gestion de Genève / Haute École Spécialisée de Suisse Occidentale
 
 
   - alt: Natkamon Tovanich
