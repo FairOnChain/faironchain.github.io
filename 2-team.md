@@ -105,4 +105,7 @@ images:
 {% assign imgs = page.images | slice: 10,3 %}
 {% include images-gallery.html imgs = imgs class = 'col-1-of-3 circle' %}
 
+{% assign imgs = page.images | slice: 13,3 %}
+{% include images-gallery.html imgs = imgs class = 'col-1-of-3 circle' %}
+
 {% include partners.html %}
