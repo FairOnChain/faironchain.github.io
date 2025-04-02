@@ -51,10 +51,20 @@ images:
     url: www.linkedin.com/in/amiralwash/
     text: <strong><em>Amir Alwash</em></strong><br/>Scientific Assistant<br/>Haute École de Gestion de Genève / Haute École Spécialisée de Suisse Occidentale
 
-  - alt: Stéphane A.
+  - alt: Stéphane Augusto
     src: /assets/img/people/stephane.png
     url: www.linkedin.com/in/st%C3%A9phane-a-b63874331/ 
-    text: <strong><em>Stéphane A.</em></strong><br/>Scientific Assistant<br/>Haute École de Gestion de Genève / Haute École Spécialisée de Suisse Occidentale
+    text: <strong><em>Stéphane Augusto</em></strong><br/>Scientific Assistant<br/>Haute École de Gestion de Genève / Haute École Spécialisée de Suisse Occidentale
+
+  - alt: Veton Berisha 
+    src: /assets/img/people/veton.jpg
+    url: www.linkedin.com/in/veton-berisha/
+    text: <strong><em>Veton Berisha</em></strong><br/>Scientific Assistant<br/>Haute École de Gestion de Genève / Haute École Spécialisée de Suisse Occidentale
+
+  - alt: Christian Russo 
+    src: /assets/img/people/christian.jpg
+    url: www.linkedin.com/in/cruss0
+    text: <strong><em>Christian Russo</em></strong><br/>Scientific Assistant<br/>Haute École de Gestion de Genève / Haute École Spécialisée de Suisse Occidentale
 
 
   - alt: Natkamon Tovanich
@@ -78,10 +88,10 @@ images:
     url: uk.linkedin.com/in/yiqi-li-567b76212
     text: <strong><em>Yiqi Li</em></strong><br/>Computing Student<br/>Imperial College London
 
-  - alt: Madalina Sas
+  - alt: Dr Madalina Sas
     src: /assets/img/people/mads.jpg
     url: mis.pm
-    text: <strong><em>Madalina Sas</em></strong><br/>Research Assistant<br/>Imperial College London
+    text: <strong><em>Dr Madalina Sas</em></strong><br/>Research Assistant<br/>Imperial College London
 
 
 ---
@@ -108,4 +118,6 @@ images:
 {% assign imgs = page.images | slice: 13,3 %}
 {% include images-gallery.html imgs = imgs class = 'col-1-of-3 circle' %}
 
+{% assign imgs = page.images | slice: 16,3 %}
+{% include images-gallery.html imgs = imgs class = 'col-1-of-3 circle' %}
 {% include partners.html %}
