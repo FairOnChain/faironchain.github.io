@@ -47,7 +47,14 @@ body {
 }
 
 /* layout wrappers and containers */
-.container { position: relative; }
+.container {
+  position: relative;
+}
+.container > img {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
 
 .overlay {
   height: calc(100% / 2.4 - 14vw);
@@ -294,4 +301,9 @@ footer a:hover, p a:hover, li a:hover, li span:hover, nav a:hover {
 }
 .circle img:hover {
    filter: grayscale(0);
+}
+
+.post-summary img {
+    width: 85%;
+    border-radius: 20px;
 }
