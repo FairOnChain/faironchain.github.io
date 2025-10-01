@@ -13,12 +13,12 @@ hero_video: "https://media.githubusercontent.com/media/FairOnChain/faironchain.g
   
     {% for post in site.posts %}
     <div class="post-summary">
-      <img src="{{ post.img }}" alt="{{ post.title }}">
+      <img src="{{ post.img }}" alt="{{ post.title |  remove: '"' }}">
       <a href="{{ post.url }}">
         <h3>{{ post.title }}</h3>
       </a>
       <p class="aqua">{{ post.date | date: "%-d %B %Y"}}</p>
-      <p class="text-center">
+      <p class="text-center" markdown="1">
         {{ post.description }}
       <u><a href="{{ post.url }}">Read more ...</a></u>
       </p>
