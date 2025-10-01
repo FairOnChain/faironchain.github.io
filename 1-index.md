@@ -15,11 +15,28 @@ FairOnChain is an ambitious European collaboration aiming to develop a publicly 
 This project is based upon participation in the CHIST-ERA 2022 call for <a href="https://www.chistera.eu/call-ord-announcement" target="_blank">Open & Re-usable Research Data and Software (ORD)</a>.
 </div>
 
+
 <div class="wrapper">
   <video controls width="100%" poster="/assets/video/placeholder.png">
     <source src="https://media.githubusercontent.com/media/FairOnChain/faironchain.github.io/main/assets/video/FairOnChain.mp4" type="video/mp4" />
   </video>
 </div>
+
+
+<div class="blue-bg">
+<div class="wrapper text-center" markdown="1">
+
+Datasets on **Bitcoin**, **Ethereum**, **Gnosis**, **Hoodi** and **Holesky** is already available on our public server.
+Please try refreshing the page if you encounter any issues on the server.
+
+<br/>
+
+<h2 class="white-bg"><a class="blue" href="https://files.deepmining.ch/" target="_blank">&nbsp;DOWNLOAD DATASETS&nbsp;</a></h2>
+
+
+</div>
+</div>
+
 
 <div class="wrapper" markdown="1">
 <div class="col-1-of-2 text-center" markdown="1">
