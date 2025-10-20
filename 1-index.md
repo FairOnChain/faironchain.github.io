@@ -33,7 +33,7 @@ Please try refreshing the page if you encounter any issues on the server.
 
 <h2 class="white-bg"><a class="blue" href="https://files.deepmining.ch/" target="_blank">&nbsp;FULL ON-CHAIN DATASETS&nbsp;</a></h2>
 
-<h2 class="white-bg"><a class="blue" href="https://files.deepmining.ch/" target="_blank">&nbsp;OPEN PRICES DATASETS&nbsp;</a></h2>
+<h2 class="white-bg"><a class="blue" href="https://fair.deepmining.ch/" target="_blank">&nbsp;OPEN PRICES DATASETS&nbsp;</a></h2>
 
 </div>
 </div>
