@@ -14,6 +14,11 @@ menu: datasets
   "description": "A comprehensive catalog of blockchain datasets following FAIR principles, providing daily updated on-chain data from multiple blockchain networks",
   "url": "https://www.faironchain.org/datasets",
   "keywords": ["blockchain", "cryptocurrency", "open data", "FAIR data", "Bitcoin", "Ethereum", "Gnosis", "Hoodi", "Holesky"],
+  "creator": {
+    "@type": "Organization",
+    "name": "FairOnChain",
+    "url": "https://www.faironchain.org"
+  },
   "provider": {
     "@type": "Organization",
     "name": "FairOnChain",
@@ -26,6 +31,11 @@ menu: datasets
       "description": "Complete Bitcoin blockchain data, updated daily from our own nodes. Includes blocks, transactions, addresses, and full historical data.",
       "url": "https://files.deepmining.ch/files/bitcoin/",
       "keywords": ["Bitcoin", "BTC", "blockchain", "cryptocurrency"],
+      "creator": {
+        "@type": "Organization",
+        "name": "FairOnChain",
+        "url": "https://www.faironchain.org"
+      },
       "distribution": {
         "@type": "DataDownload",
         "contentUrl": "https://files.deepmining.ch/files/bitcoin/",
@@ -45,6 +55,11 @@ menu: datasets
       "description": "Complete Ethereum blockchain data, updated daily from our own nodes. Includes blocks, transactions, smart contracts, and full historical data.",
       "url": "https://files.deepmining.ch/files/ethereum/",
       "keywords": ["Ethereum", "ETH", "blockchain", "smart contracts", "cryptocurrency"],
+      "creator": {
+        "@type": "Organization",
+        "name": "FairOnChain",
+        "url": "https://www.faironchain.org"
+      },
       "distribution": {
         "@type": "DataDownload",
         "contentUrl": "https://files.deepmining.ch/files/ethereum/",
@@ -64,6 +79,11 @@ menu: datasets
       "description": "Complete Gnosis blockchain data, updated daily from our own nodes. Includes blocks, transactions, and full historical data from the Gnosis Chain.",
       "url": "https://files.deepmining.ch/files/gnosis/",
       "keywords": ["Gnosis", "GNO", "blockchain", "cryptocurrency"],
+      "creator": {
+        "@type": "Organization",
+        "name": "FairOnChain",
+        "url": "https://www.faironchain.org"
+      },
       "distribution": {
         "@type": "DataDownload",
         "contentUrl": "https://files.deepmining.ch/files/gnosis/",
@@ -83,6 +103,11 @@ menu: datasets
       "description": "Complete Hoodi testnet blockchain data, updated daily from our own nodes. Includes blocks, transactions, and full historical data.",
       "url": "https://files.deepmining.ch/files/hoodi/",
       "keywords": ["Hoodi", "testnet", "blockchain", "cryptocurrency"],
+      "creator": {
+        "@type": "Organization",
+        "name": "FairOnChain",
+        "url": "https://www.faironchain.org"
+      },
       "distribution": {
         "@type": "DataDownload",
         "contentUrl": "https://files.deepmining.ch/files/hoodi/",
@@ -101,6 +126,11 @@ menu: datasets
       "description": "Complete Holesky testnet blockchain data, updated daily from our own nodes. Includes blocks, transactions, and full historical data from Ethereum's Holesky testnet.",
       "url": "https://files.deepmining.ch/files/holesky/",
       "keywords": ["Holesky", "Ethereum", "testnet", "blockchain", "cryptocurrency"],
+      "creator": {
+        "@type": "Organization",
+        "name": "FairOnChain",
+        "url": "https://www.faironchain.org"
+      },
       "distribution": {
         "@type": "DataDownload",
         "contentUrl": "https://files.deepmining.ch/files/holesky/",
