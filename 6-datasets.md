@@ -2,7 +2,7 @@
 layout: page
 title: FairOnChain<br/>Datasets
 permalink: /datasets
-hero_video: "https://media.githubusercontent.com/media/FairOnChain/faironchain.github.io/main/assets/video/grid.mp4"
+hero_video: "/assets/video/grid.mp4"
 menu: datasets
 ---
 

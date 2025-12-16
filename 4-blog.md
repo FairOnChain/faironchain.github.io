@@ -3,7 +3,7 @@ layout: page
 title: "FairOnChain<br/>News"
 permalink: /blog
 menu: news 
-hero_video: "https://media.githubusercontent.com/media/FairOnChain/faironchain.github.io/main/assets/video/globe.mp4"
+hero_video: "/assets/video/globe.mp4"
 ---
 
 

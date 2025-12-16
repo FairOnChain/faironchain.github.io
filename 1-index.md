@@ -4,7 +4,7 @@ title: FairOnChain
 menu: about
 permalink: /
 subtitle: Fair and modular blockchain data infrastructure for open science and society
-hero_video: "https://media.githubusercontent.com/media/FairOnChain/faironchain.github.io/main/assets/video/grid.mp4"
+hero_video: "/assets/video/grid.mp4"
 logo_img: /assets/img/faironchain-white.png
 
 ---
@@ -18,7 +18,7 @@ This project is based upon participation in the CHIST-ERA 2022 call for <a href=
 
 <div class="wrapper">
   <video controls width="100%" poster="/assets/video/placeholder.png">
-    <source src="https://media.githubusercontent.com/media/FairOnChain/faironchain.github.io/main/assets/video/FairOnChain.mp4" type="video/mp4" />
+    <source src="/assets/video/FairOnChain.mp4" type="video/mp4" />
   </video>
 </div>
 

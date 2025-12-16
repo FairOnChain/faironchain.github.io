@@ -2,7 +2,7 @@
 layout: page
 title: FairOnChain<br/>Team
 permalink: /team
-hero_video: "https://media.githubusercontent.com/media/FairOnChain/faironchain.github.io/main/assets/video/net.mp4"
+hero_video: "/assets/video/net.mp4"
 menu: team
 images:
   - alt: Marco Mattavelli
