@@ -18,7 +18,7 @@ This project is based upon participation in the CHIST-ERA 2022 call for <a href=
 
 <div class="wrapper">
   <video controls width="100%" poster="/assets/video/placeholder.png">
-    <source src="/assets/video/FairOnChain.mp4" type="video/mp4" />
+    <source src="https://media.githubusercontent.com/media/FairOnChain/faironchain.github.io/main/assets/video/FairOnChain.mp4" type="video/mp4" />
   </video>
 </div>
 
