@@ -70,13 +70,7 @@ images:
   - alt: Natkamon Tovanich
     src: /assets/img/people/natkamon.jpg
     url: www.linkedin.com/in/natkamon-tovanich-00a1a5aa/
-    text: <strong><em>Dr Natkamon Tovanich</em></strong><br/>Postdoctoral Researcher<br/>CREST, École Polytechnique
-
-  - alt: Munthitra Thadthapong 
-    src: /assets/img/people/munthitra.jpeg
-    url: fr.linkedin.com/in/munthitra-thadthapong
-    text: <strong><em>Munthitra Thadthapong</em></strong><br/>Data Science & AI Master's Student<br/>CREST, École Polytechnique
-
+    text: <strong><em>Dr Natkamon Tovanich</em></strong><br/>Postdoctoral Researcher<br/>TU Wien
 
   - alt: Jaiditya Khemani
     src: /assets/img/people/jaiditya.jpg
