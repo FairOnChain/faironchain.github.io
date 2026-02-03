@@ -13,7 +13,7 @@ menu: datasets
   "name": "FairOnChain Blockchain Data Catalog",
   "description": "A comprehensive catalog of blockchain datasets following FAIR principles, providing daily updated on-chain data from multiple blockchain networks",
   "url": "https://www.faironchain.org/datasets",
-  "dateModified": "2026-02-02"%Y-%m-%d" }}",
+  "dateModified": "2026-02-02",
   "keywords": ["blockchain", "cryptocurrency", "open data", "FAIR data", "Bitcoin", "Ethereum", "Gnosis", "Hoodi", "Holesky"],
   "creator": {
     "@type": "Organization",
@@ -31,7 +31,7 @@ menu: datasets
       "name": "Bitcoin On-Chain Data",
       "description": "Complete Bitcoin blockchain data, updated daily from our own nodes. Includes blocks, transactions, addresses, and full historical data.",
       "url": "https://files.deepmining.ch/files/bitcoin/",
-      "dateModified": "2026-02-01"%Y-%m-%d" }}",
+      "dateModified": "2026-02-01",
       "keywords": ["Bitcoin", "BTC", "blockchain", "cryptocurrency"],
       "creator": {
         "@type": "Organization",
@@ -56,7 +56,7 @@ menu: datasets
       "name": "Ethereum On-Chain Data",
       "description": "Complete Ethereum blockchain data, updated daily from our own nodes. Includes blocks, transactions, smart contracts, and full historical data.",
       "url": "https://files.deepmining.ch/files/ethereum/",
-      "dateModified": "2026-02-02"%Y-%m-%d" }}",
+      "dateModified": "2026-02-02",
       "keywords": ["Ethereum", "ETH", "blockchain", "smart contracts", "cryptocurrency"],
       "creator": {
         "@type": "Organization",
@@ -81,7 +81,7 @@ menu: datasets
       "name": "Gnosis On-Chain Data",
       "description": "Complete Gnosis blockchain data, updated daily from our own nodes. Includes blocks, transactions, and full historical data from the Gnosis Chain.",
       "url": "https://files.deepmining.ch/files/gnosis/",
-      "dateModified": "2025-12-22"%Y-%m-%d" }}",
+      "dateModified": "2025-12-22",
       "keywords": ["Gnosis", "GNO", "blockchain", "cryptocurrency"],
       "creator": {
         "@type": "Organization",
@@ -106,7 +106,7 @@ menu: datasets
       "name": "Hoodi Testnet Data",
       "description": "Complete Hoodi testnet blockchain data, updated daily from our own nodes. Includes blocks, transactions, and full historical data.",
       "url": "https://files.deepmining.ch/files/hoodi/",
-      "dateModified": "2026-02-02"%Y-%m-%d" }}",
+      "dateModified": "2026-02-02",
       "keywords": ["Hoodi", "testnet", "blockchain", "cryptocurrency"],
       "creator": {
         "@type": "Organization",
